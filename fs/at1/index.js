@@ -82,6 +82,11 @@
 // Escreva um programa em Node.js que verifique se um arquivo específico existe ou
 // não.
 
-const fs = require('fs')
+// const fs = require('fs')
+// const file = 'destinacao.txt'
 
-fs.existsSync
+// if(fs.existsSync(file)){
+//     console.log('arquivo existe')
+// }else{
+//     console.log('Aquivo não existe')
+// }
